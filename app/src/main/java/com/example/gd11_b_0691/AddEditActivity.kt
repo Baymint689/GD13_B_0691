@@ -240,7 +240,7 @@ class AddEditActivity : AppCompatActivity() {
     }
 
     //Tampil layout loading
-    //Catatan untuk yang commit: Gunakan Empty activity untuk AddEdit Activity ketimbang Kotlin Class
+    //Catatan untuk yang commit: Gunakan Empty activity untuk AddEditActivity ketimbang Kotlin Class
     private fun setLoading(isLoading: Boolean){
         if (isLoading){
             window.setFlags(
