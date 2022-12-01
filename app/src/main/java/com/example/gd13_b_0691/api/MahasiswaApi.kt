@@ -1,4 +1,4 @@
-package com.example.gd11_b_0691.api
+package com.example.gd13_b_0691.api
 
 class MahasiswaApi {
     companion object {
